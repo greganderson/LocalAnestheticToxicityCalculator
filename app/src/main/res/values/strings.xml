@@ -4,5 +4,8 @@
     <string name="app_name">Local Anesthetic Toxicity Calculator</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_label">Local Anesthetic Toxicity Calculator for Regional Anesthesia</string>
+    <string name="kilograms_text">Kilograms</string>
+    <string name="patient_weight_hint">Patient Weight</string>
 
 </resources>
